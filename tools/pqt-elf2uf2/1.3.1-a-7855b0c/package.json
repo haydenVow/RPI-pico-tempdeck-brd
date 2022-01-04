@@ -1,0 +1,7 @@
+{
+   "description": "elf2uf2-utility",
+   "name": "elf2uf2",
+   "system": [ "darwin_x86_64" ],
+   "url": "https://github.com/earlephilhower/pico-quick-toolchain",
+   "version": "5.100300.210706"
+}
